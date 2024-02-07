@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmarvis&label=Profile%20views&color=0e75b6&style=flat" alt="gmarvis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sam gmarvis" target="blank"><img src="https://img.shields.io/twitter/follow/sam gmarvis?logo=twitter&style=for-the-badge" alt="sam gmarvis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sam_gmarvis" target="blank"><img src="https://img.shields.io/twitter/follow/sam gmarvis?logo=twitter&style=for-the-badge" alt="sam gmarvis" /></a> </p>
 
 - 🔭 I’m currently working on [HomyGIG](https://homygig.vercel.app/)
 
